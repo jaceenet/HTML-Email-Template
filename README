@@ -1,0 +1,5 @@
+HTML Email may or may not be evil. Either way sometimes you have to use it. Unfortunately, a lot of email clients are stuck in the dark ages as far as web standards go so html emails have to be constructed 'old school'. 
+
+I've created this template that's been used and modified over the last 4 years and it's been received by millions of people. It's what's ended up being best practice for me. It displays well in most email clients and works well in the preview pane. 
+
+What this doesn't do is scale for mobile devices. It's just under 600 pixels high. The readable part is 500 pixels. So on screens that have lower resolutions there may be some side scrolling.
